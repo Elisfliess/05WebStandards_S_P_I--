@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background: mistyrose;
+    
+}
+
+.container h1{
+    font-family: sans-serif;
+    padding: 10px 0 0 10px;
+    text-align: center;
+}
+
+
+.container{
+    background: lavender;
+    max-width: 1000px;
+    margin: 0 auto;
+
+}
+
+.containerTable{
+    max-width: 700px;
+    margin: 30px auto;
+}
+
+
+.containerTable table{
+    width: 100%;
+    
+}
+
+.trBackgroundTitle{
+    background:lightslategray;
+}
+
+.trBackgroundPrime{
+    background:rgb(128, 221, 240) ;
+}
+
+.trBackgroundPrime2{
+    background: rgb(86, 146, 225);
+}

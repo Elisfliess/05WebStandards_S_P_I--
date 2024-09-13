@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background:white;
+    
+}
+
+.container h1{
+    font-family: sans-serif;
+    padding: 10px 0 0 10px;
+    text-align: center;
+}
+
+.container p{
+    font-family: sans-serif;
+    padding: 10px 0 0 10px;
+    text-align: center;
+    margin: 20px 0 20px 0;
+}
+
+
+
+    .container{
+        background:  white;
+        max-width: 1000px;
+        margin: 0 auto;
+    
+    }
+
+.tdInformacoes{
+        max-width: 700px;
+         margin: 30px auto;
+}
+
+.containerTable table{
+    width: 100%;
+    
+}
+
+.tdPrecoMensal{
+    text-align: center;
+}
+.preco1, .preco2, .preco3{
+    background: rgb(63, 112, 235);
+
+}
+
+.tdComercial{
+    text-align: center;
+}
+
+.tdUsuarios{
+    text-align: center;
+}
+
+.tdContato{
+    text-align: center;
+}
+
+.tdCafe{
+    text-align: center;
+}
+
+.tdbotao{
+    text-align: center;
+}
+
+.tdbotao1, .tdbotao2,.tdbotao3{
+    background: rgb(63, 112, 235);
+}
+
